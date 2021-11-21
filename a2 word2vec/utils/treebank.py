@@ -9,7 +9,7 @@ import random
 class StanfordSentiment:
     def __init__(self, path=None, tablesize = 1000000):
         if not path:
-            path = "utils/datasets/stanfordSentimentTreebank"
+            path = "utils/data/stanfordSentimentTreebank"
 
         self.path = path
         self.tablesize = tablesize
