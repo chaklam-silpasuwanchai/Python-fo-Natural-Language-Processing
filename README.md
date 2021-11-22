@@ -54,22 +54,27 @@ Focus on understanding common neural network architecture for NLP
 ### 4. Contemporary Topics
 Ask students to share their knowledge after reading assigned papers
   - For list of good conference, look here http://chaklam.com/node/32 
+    - (1)  
 
 ## Grade Criteria
 
 The course has the following grade criteria:
-1. Assignment (50%)
+1. Assignment (50%) --> 
     - There will be a total of 5 coding assignments + 1 paper presentation assignment
-    -  A1: Getting Started (5%)
-    -  A2: Word2Vec (10%)
-    -  A3: Dependency Parsing (10%)
-    -  A4: Bidirectional LSTM with Attention for Classification from Scratch (10%)
-    -  A5: Encoder-Decoder with Attention for Seq2Seq from Scratch (10%)
-    -  A6: Paper Reading (5%)  
-2. Final Project (45%)
-    - Project focusing on one of the typical NLP tasks, e.g., question-answering, image captioning, text summarization, etc.
-    - Main criteria focuses on reasonable methodologies, processes, and accuracy.
-    - Submission deliverables:  (1) python file (e.g., notebook, .py), (2) Report in IEEE format (introduction, related work, methodology, results, discussion), (3) presentation file (e.g., .pdf, .ppt)
-3. Participation (5%)
-    - Regularly attending the class, and answering in the class
-    - Any act that would improve the class, e.g., suggesting some potential bugs or typos
+    - Any late work (indicated by Google Classroom) will be deducted 50%.  **NO excuses** will be accepted.
+    - We are extremely serious about copying and plagiarism.  This assignment is intended for you to learn.  TA has the privilege to give zeros or partial score to any sort of plagiarism or alike.  Their call is final.
+      -  A0: ???? (2%)
+      -  A1: Getting Started (4%)
+      -  A2: Word2Vec (10%)
+      -  A3: Dependency Parsing (10%)
+      -  A4: Bidirectional LSTM with Attention for Classification from Scratch (10%)
+      -  A5: Encoder-Decoder with Attention for Seq2Seq from Scratch (10%)
+      -  A6: Paper Reading (4%)  
+2. Final Project (50%) - 1 week project progress
+    - Four project topics will be given as follows:
+      - (1) 
+    - Main criteria focuses on learning, in particular
+      - (1)  
+    - Submission deliverables:  
+      - (1) python file (e.g., notebook, .py)
+      - (2) presentation file (e.g., .pdf, .ppt) 
