@@ -18,7 +18,7 @@ I would also like to thank students who have contributed:
 
 ## Course Outline
 
-The course is structured into 3 big components, mostly focusing on preprocessing and modeling perspectives:
+The course is structured into 3 big components (and 1 small component):
 
 ### 1. Natural Language Understanding
 Focus on understanding basic knowledge
