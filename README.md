@@ -36,7 +36,7 @@ Focus on understanding how word representations work
   - Other rising stars
   
 ### 3. Neural Network
-Focus on understanding common neural network architecture
+Focus on understanding common neural network architecture for NLP
   - Recurrent Neural Network
   - Long Short-Term Memory
   - Long Short-Term Memory with Attention
