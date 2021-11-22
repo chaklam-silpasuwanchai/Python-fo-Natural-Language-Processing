@@ -59,13 +59,13 @@ Ask students to share their knowledge after reading assigned papers
 
 The course has the following grade criteria:
 1. Assignment (50%)
-    - There will be a total of 6 coding assignments + 1 paper presentation assignment
+    - There will be a total of 5 coding assignments + 1 paper presentation assignment
     -  A1: Getting Started (5%)
     -  A2: Word2Vec (10%)
     -  A3: Dependency Parsing (10%)
     -  A4: Bidirectional LSTM with Attention for Classification from Scratch (10%)
     -  A5: Encoder-Decoder with Attention for Seq2Seq from Scratch (10%)
-    -  A7: Paper Reading (5%)  
+    -  A6: Paper Reading (5%)  
 2. Final Project (45%)
     - Project focusing on one of the typical NLP tasks, e.g., question-answering, image captioning, text summarization, etc.
     - Main criteria focuses on reasonable methodologies, processes, and accuracy.
