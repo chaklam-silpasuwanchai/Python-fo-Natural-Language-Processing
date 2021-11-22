@@ -13,8 +13,10 @@ I would also like to give credits to several githubs/web resources that I have r
 
 I would also like to thank students who have contributed:
 
-- Pranisaa Charnparttarvanit
-- Chanapa Pananookooln
+- Pranisaa Charnparttarvanit; Office Hours:  ; Email: 
+- Chanapa Pananookooln; Office Hours:  ; Email: 
+
+If you have any questions regarding the lectures/assignments, do not hesitate to contact them in their office hours.
 
 ## Prerequisites
 
