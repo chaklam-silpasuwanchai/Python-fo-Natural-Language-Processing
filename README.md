@@ -16,6 +16,13 @@ I would also like to thank students who have contributed:
 - Pranisaa Charnparttarvanit
 - Chanapa Pananookooln
 
+## Prerequisites
+
+This course is best taken after the following courses offered in the August semester:
+
+- Python for DSAI by myself - https://github.com/chaklam-silpasuwanchai/Python-for-DS-AI
+- Machine Learning by Matthew Dailey - https://github.com/dsai-asia/ML
+
 ## Course Outline
 
 The course is structured into 3 big components (and 1 small component):
