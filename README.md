@@ -65,5 +65,5 @@ The course has the following grade criteria:
     - Main criteria focuses on reasonable methodologies, processes, and accuracy.
     - Submission deliverables:  (1) python file (e.g., notebook, .py), (2) Report in IEEE format (introduction, related work, methodology, results, discussion), (3) presentation file (e.g., .pdf, .ppt)
 3. Participation (5%)
-    - Regularly attenting the class, and answering in the class
+    - Regularly attending the class, and answering in the class
     - Any act that would improve the class, e.g., suggesting some potential bugs or typos
