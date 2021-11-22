@@ -56,9 +56,9 @@ The course has the following grade criteria:
     -  A1: Getting Started (5%)
     -  A2: Word2Vec (8%)
     -  A3: Dependency Parsing (8%)
-    -  A4: Bidirectional LSTM from Scratch (8%)
-    -  A5: Encoder-Decoder from Scratch (8%)
-    -  A6: Transformer (8%)
+    -  A4: Bidirectional LSTM with Attention for Classification from Scratch (8%)
+    -  A5: Encoder-Decoder with Attention for Seq2Seq from Scratch (8%)
+    -  A6: Transformer (Attention only) (8%)
     -  A7: Paper Reading (5%)  
 2. Final Project (45%)
     - Project focusing on one of the typical NLP tasks, e.g., question-answering, image captioning, text summarization, etc.
