@@ -29,17 +29,17 @@ This course is best taken after the following courses offered in the August seme
 
 The course will be delivered in 13 weeks, 2 lectures per week, with each lecture spanning 1.5h.
 
-1. Word Vectors I
-2. Word Vectors II (*Assignment 1 starts*)
-3. Neural Networks and Backprop Review
+1. Word Vectors I (*A1 starts*)
+2. Word Vectors II 
+3. Neural Networks and Backprop Review (*A2 starts, A1 due*)
 4. Dependency Parsing
-5. Recurrent Neural Network
+5. Recurrent Neural Network (*A3 starts, A2 due*)
 6. LSTM and GRU
-7. Machine Translation, Attention
+7. Machine Translation, Attention. (*A4 starts, A3 due*)
 8. Transformer I
-9. Transformer II
-10. Question-Answering
-11. Text Generation
+9. Transformer II (*A5 starts, A4 due*)
+10. Question-Answering 
+11. Text Generation (*A6 starts, A5 due*)
 12. Project Tips, Practical Tips and Project Ideas (by Pranissa Charnparttarvanit, Chanapa Pananookooln)
 13. Coreference Resolution
 14. Large language models
@@ -60,16 +60,16 @@ The course will be delivered in 13 weeks, 2 lectures per week, with each lecture
 
 The course has the following grade criteria:
 1. Assignment (58%) --> 
-    - There will be a total of 5 coding assignments + 1 paper presentation assignment
+    - There will be a total of 6 coding assignments + 1 paper presentation assignment
     - Any late work (indicated by Google Classroom) will be deducted 50%.  **NO excuses** will be accepted.
-    - We are extremely serious about copying and plagiarism.  This assignment is intended for you to learn.  TA has the privilege to give zeros or partial score to any sort of plagiarism or alike.  Their call is final.
+    - We are extremely serious about copying and plagiarism.  This assignment is intended for you to learn.  TA has the privilege to give zeros or partial score to any sort of plagiarism or alike.  Their call IS FINAL.
       -  A1: Getting Started (4%)
       -  A2: Word2Vec (10%)
       -  A3: Dependency Parsing (10%)
       -  A4: Bidirectional LSTM with Attention for Classification from Scratch (10%)
       -  A5: Transformers for Seq2Seq from Scratch (10%)
       -  A6: Pretraining + finetuning (10%)
-      -  A6: Paper Reading (4%)  
+      -  A7: Paper Reading (4%)  
         - For the list of the assigned paper, here it is (select one that no one takes):   
 2. Final Project (42%) - 1 week project progress
     - Four project topics will be given as follows:
