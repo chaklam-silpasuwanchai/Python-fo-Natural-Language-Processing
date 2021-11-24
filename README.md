@@ -29,32 +29,32 @@ This course is best taken after the following courses offered in the August seme
 
 The course will be delivered in 13 weeks, 2 lectures per week, with each lecture spanning 1.5h.
 
-1.1 Word Vectors I
-1.2 Word Vectors II
-2.1 Neural Networks Review
-2.2 Dependency Parsing
-3.1 Recurrent Neural Network
-3.2 LSTM and GRU
-4.1 Machine Translation, Attention
-4.2 Transformer I
-5.1 Transformer II
-5.2 Question-Answering
-6.1 Text Generation
-6.2 Project Tips and Project Ideas (by TA)
-7.1 Coreference Resolution
-7.2 T5 and large language models
-8.1 Integrating knowledge in language models
-8.2 Model Analysis and Explanation
-9.1 Project Proposal 
-9.2 Future of NLP
-10.1 Recent NLP Trend II (by TA)
-10.2 Recent NLP Trend (by TA)
-11.1 Paper Reading Presentation I
-11.2 Paper Reading Presentation II
-12.1 Project Progress Report
-12.2 Project Day
-13.1 Project Day
-13.2 Final Project Presentation
+1. Word Vectors I
+2. Word Vectors II (*Assignment 1 starts*)
+3. Neural Networks and Backprop Review
+4. Dependency Parsing
+5. Recurrent Neural Network
+6. LSTM and GRU
+7. Machine Translation, Attention
+8. Transformer I
+9. Transformer II
+10. Question-Answering
+11. Text Generation
+12. Project Tips, Practical Tips and Project Ideas (by Pranissa Charnparttarvanit, Chanapa Pananookooln)
+13. Coreference Resolution
+14. Large language models
+15. Integrating knowledge in language models
+16. Model Analysis and Explanation
+17. **Project Proposal** 
+18. Future of NLP
+19. Recent NLP Trend I (by Pranissa Charnparttarvanit)
+20. Recent NLP Trend II (by Chanapa Pananookooln)
+21. **Paper Reading Presentation I**
+22. **Paper Reading Presentation II**
+23. Project Day
+24. **Project Progress Report**
+25. Project Day
+26. **Final Project Presentation**
 
 ## Grade Criteria
 
