@@ -31,30 +31,31 @@ The course will be delivered in 13 weeks, 2 lectures per week, with each lecture
 
 1. Word Vectors I (*A1 starts*)
 2. Word Vectors II 
-3. Neural Networks and Backprop Review (*A2 starts, A1 due*)
-4. Dependency Parsing
-5. Recurrent Neural Network (*A3 starts, A2 due*)
-6. LSTM and GRU
-7. Machine Translation, Attention. (*A4 starts, A3 due*)
-8. Transformer I
-9. Transformer II (*A5 starts, A4 due*)
-10. Question-Answering 
-11. Text Generation (*A6 starts, A5 due*)
-12. Project Tips, Practical Tips and Project Ideas (by Pranissa Charnparttarvanit, Chanapa Pananookooln)
-13. Coreference Resolution
-14. Large language models
-15. Integrating knowledge in language models
-16. Model Analysis and Explanation
-17. **Project Proposal** 
-18. Future of NLP
-19. Recent NLP Trend I (by Pranissa Charnparttarvanit)
-20. Recent NLP Trend II (by Chanapa Pananookooln)
-21. **Paper Reading Presentation I**
-22. **Paper Reading Presentation II**
-23. Project Day
-24. **Project Progress Report**
-25. Project Day
-26. **Final Project Presentation**
+3. Neural Networks Review (*A2 starts, A1 due*)
+4. Backprop Review II
+5. Dependency Parsing
+6. Recurrent Neural Network (*A3 starts, A2 due*)
+7. LSTM and GRU
+8. Machine Translation, Attention (*A4 starts, A3 due*)
+9. Subword Models
+10. Transformer I
+11. Transformer II (*A5 starts, A4 due*)
+12. Question-Answering 
+13. Text Generation (*A6 starts, A5 due*)
+14. Project Tips, Practical Tips and Project Ideas (by Pranissa Charnparttarvanit, Chanapa Pananookooln)
+15. Coreference Resolution
+16. Large Language Models
+17. Contextual Word Representations
+18. Model Analysis and Explanation
+19. Future of NLP
+20. Recent NLP Trend I (by Pranissa Charnparttarvanit)
+21. Recent NLP Trend II (by Chanapa Pananookooln)
+22. **Paper Reading Presentation I**
+23. **Paper Reading Presentation II**
+24. Project Day
+25. **Project Progress Report**
+26. Project Day
+27. **Final Project Presentation**
 
 ## Grade Criteria
 
