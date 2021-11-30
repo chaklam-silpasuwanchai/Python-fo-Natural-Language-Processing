@@ -37,33 +37,33 @@ Part I: Fundamentals
 5. Dependency Parsing. (*A3 starts, A2 due*)
 
 Part II: Model Architectures
-6. Recurrent Neural Network 
-7. LSTM and GRU (*A4 starts, A3 due*)
-8. Machine Translation, Attention 
-9. Contextual Word Representations  
-10. Convolutional Networks for NLP 
-11. Transformer I  (*A5 starts, A4 due*)
-12. Transformer II, Pretraining, Large Models 
+1. Recurrent Neural Network 
+2. LSTM and GRU (*A4 starts, A3 due*)
+3. Machine Translation, Attention 
+4. Contextual Word Representations  
+5. Convolutional Networks for NLP 
+6. Transformer I  (*A5 starts, A4 due*)
+7. Transformer II, Pretraining, Large Models 
 
 Part III: NLP Tasks and Evaluations
-13. Question-Answering (*A6 starts, A5 due*)
-14. Text Generation
-15. **Project Tips and Ideas** (by Pranissa Charnparttarvanit, Chanapa Pananookooln) (*A6 due*; project starts)
-16. Coreference Resolution
-17. Model Analysis and Explanation
+1. Question-Answering (*A6 starts, A5 due*)
+2. Text Generation
+3. **Project Tips and Ideas** (by Pranissa Charnparttarvanit, Chanapa Pananookooln) (*A6 due*; project starts)
+4. Coreference Resolution
+5. Model Analysis and Explanation
 
 Future of NLP
-18. MultiTask Learning
-19. Integration of knowledge into NLP models
-20. Recent NLP Trend I (by Pranissa Charnparttarvanit)
-21. Recent NLP Trend II (by Chanapa Pananookooln)
-22. Recent NLP Trend III (by Sitiporn Saelim)
+1. MultiTask Learning
+2. Integration of knowledge into NLP models
+3. Recent NLP Trend I (by Pranissa Charnparttarvanit)
+4. Recent NLP Trend II (by Chanapa Pananookooln)
+5. Recent NLP Trend III (by Sitiporn Saelim)
 
 Project
-23. **Project Progress Report**
-24. Project Day
-35. Project Day
-26. **Final Project Presentation**
+1. **Project Progress Report**
+2. Project Day
+3. Project Day
+4. **Final Project Presentation**
 
 ## Grade Criteria
 
