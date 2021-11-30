@@ -32,7 +32,7 @@ The course will be delivered in 13 weeks, 2 lectures per week, with each lecture
 1. Word Vectors I (*A1 starts*)
 2. Word Vectors II 
 3. Neural Networks Review (*A2 starts, A1 due*)
-4. Backprop Review II
+4. Backprop Review
 5. Dependency Parsing
 6. Recurrent Neural Network (*A3 starts, A2 due*)
 7. LSTM and GRU
@@ -42,20 +42,19 @@ The course will be delivered in 13 weeks, 2 lectures per week, with each lecture
 11. Transformer II (*A5 starts, A4 due*)
 12. Question-Answering 
 13. Text Generation (*A6 starts, A5 due*)
-14. Project Tips, Practical Tips and Project Ideas (by Pranissa Charnparttarvanit, Chanapa Pananookooln)
+14. Project Tips and Ideas (by Pranissa Charnparttarvanit, Chanapa Pananookooln)
 15. Contextual Word Representations
 16. Coreference Resolution
-17. Large Language Models
+17. MultiTask Learning
 18. Model Analysis and Explanation
-19. Future of NLP
+19. Integration of knowledge into NLP models
 20. Recent NLP Trend I (by Pranissa Charnparttarvanit)
 21. Recent NLP Trend II (by Chanapa Pananookooln)
-22. **Paper Reading Presentation I**
-23. **Paper Reading Presentation II**
+22. Recent NLP Trend III (by Sitiporn Saelim)
+23. **Project Progress Report**
 24. Project Day
-25. **Project Progress Report**
-26. Project Day
-27. **Final Project Presentation**
+25. Project Day
+26. **Final Project Presentation**
 
 ## Grade Criteria
 
@@ -70,10 +69,8 @@ The course has the following grade criteria:
       -  A4: Bidirectional LSTM with Attention for Classification from Scratch (10%)
       -  A5: Transformers for Seq2Seq from Scratch (10%)
       -  A6: Pretraining + finetuning (10%)
-      -  A7: Paper Reading (4%)  
-        - For the list of the assigned paper, here it is (select one that no one takes):   
 2. Final Project (42%) - 1 week project progress
-    - Four project topics will be given as follows:
+    - Three project topics will be given as follows:
       - (1) 
     - Main criteria focuses on learning, in particular
       - (1)  
