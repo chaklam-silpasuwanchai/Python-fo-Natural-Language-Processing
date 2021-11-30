@@ -52,14 +52,14 @@ Part III: NLP Tasks and Evaluations
 4. Coreference Resolution
 5. Model Analysis and Explanation
 
-Future of NLP
+Part IV: Future of NLP
 1. MultiTask Learning
 2. Integration of knowledge into NLP models
 3. Recent NLP Trend I (by Pranissa Charnparttarvanit)
 4. Recent NLP Trend II (by Chanapa Pananookooln)
 5. Recent NLP Trend III (by Sitiporn Saelim)
 
-Project
+Part V: Project
 1. **Project Progress Report**
 2. Project Day
 3. Project Day
