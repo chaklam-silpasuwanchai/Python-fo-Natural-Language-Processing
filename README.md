@@ -59,8 +59,8 @@ The course will be delivered in 13 weeks, 2 lectures per week, with each lecture
 ## Grade Criteria
 
 The course has the following grade criteria:
-1. Assignment (58%) --> 
-    - There will be a total of 6 coding assignments + 1 paper presentation assignment
+1. Assignment (54%) --> 
+    - There will be a total of 6 coding assignments
     - Any late work (indicated by Google Classroom) will be deducted 50%.  **NO excuses** will be accepted.
     - We are extremely serious about copying and plagiarism.  This assignment is intended for you to learn.  TA has the privilege to give zeros or partial score to any sort of plagiarism or alike.  Their call IS FINAL.
       -  A1: Getting Started (4%)
@@ -69,8 +69,8 @@ The course has the following grade criteria:
       -  A4: Bidirectional LSTM with Attention for Classification from Scratch (10%)
       -  A5: Transformers for Seq2Seq from Scratch (10%)
       -  A6: Pretraining + finetuning (10%)
-2. Final Project (42%) - 1 week project progress
-    - Three project topics will be given as follows:
+2. Final Project (46%) - 1 week project progress
+    - Three default project topics will be given as follows:
       - (1) 
     - Main criteria focuses on learning, in particular
       - (1)  
