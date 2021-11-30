@@ -29,31 +29,40 @@ This course is best taken after the following courses offered in the August seme
 
 The course will be delivered in 13 weeks, 2 lectures per week, with each lecture spanning 1.5h.
 
+Part I: Fundamentals
 1. Word Vectors I (*A1 starts*)
 2. Word Vectors II 
 3. Neural Networks Review (*A2 starts, A1 due*)
 4. Backprop Review
-5. Dependency Parsing
-6. Recurrent Neural Network (*A3 starts, A2 due*)
-7. LSTM and GRU
-8. Machine Translation, Attention (*A4 starts, A3 due*)
-9. Convolutional Networks for NLP
-10. Transformer I
-11. Transformer II, Pretraining, Large Models (*A5 starts, A4 due*)
-12. Question-Answering 
-13. Text Generation (*A6 starts, A5 due*)
-14. Project Tips and Ideas (by Pranissa Charnparttarvanit, Chanapa Pananookooln)
-15. Contextual Word Representations
+5. Dependency Parsing. (*A3 starts, A2 due*)
+
+Part II: Model Architectures
+6. Recurrent Neural Network 
+7. LSTM and GRU (*A4 starts, A3 due*)
+8. Machine Translation, Attention 
+9. Contextual Word Representations  
+10. Convolutional Networks for NLP 
+11. Transformer I  (*A5 starts, A4 due*)
+12. Transformer II, Pretraining, Large Models 
+
+Part III: NLP Tasks and Evaluations
+13. Question-Answering (*A6 starts, A5 due*)
+14. Text Generation
+15. **Project Tips and Ideas** (by Pranissa Charnparttarvanit, Chanapa Pananookooln) (*A6 due*; project starts)
 16. Coreference Resolution
-17. MultiTask Learning
-18. Model Analysis and Explanation
+17. Model Analysis and Explanation
+
+Future of NLP
+18. MultiTask Learning
 19. Integration of knowledge into NLP models
 20. Recent NLP Trend I (by Pranissa Charnparttarvanit)
 21. Recent NLP Trend II (by Chanapa Pananookooln)
 22. Recent NLP Trend III (by Sitiporn Saelim)
+
+Project
 23. **Project Progress Report**
 24. Project Day
-25. Project Day
+35. Project Day
 26. **Final Project Presentation**
 
 ## Grade Criteria
