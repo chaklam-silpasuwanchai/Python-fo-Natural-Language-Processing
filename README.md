@@ -39,7 +39,7 @@ The course will be delivered in 13 weeks, 2 lectures per week, with each lecture
 8. Machine Translation, Attention (*A4 starts, A3 due*)
 9. Convolutional Networks for NLP
 10. Transformer I
-11. Transformer II (*A5 starts, A4 due*)
+11. Transformer II, Pretraining, Large Models (*A5 starts, A4 due*)
 12. Question-Answering 
 13. Text Generation (*A6 starts, A5 due*)
 14. Project Tips and Ideas (by Pranissa Charnparttarvanit, Chanapa Pananookooln)
