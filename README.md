@@ -1,6 +1,6 @@
-# NLP / NLU - Natural Language Processing / Natural Language Understanding
+# NLP - Natural Language Processing
 
-This is the repository for the Natural Language Processing / Natural Language Understanding at Asian Institute of Technology.
+This is the repository for the Natural Language Processing at Asian Institute of Technology.
 
 I would also like to give huge credits to several githubs/web resources that I have revised to create this:
 
