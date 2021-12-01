@@ -79,12 +79,17 @@ The course has the following grade criteria:
       -  A5: Transformers for Seq2Seq from Scratch (10%)
       -  A6: Pretraining + finetuning (10%)
 2. Final Project (46%) - 1 week project progress
-    - Three default project topics will be given as follows:
+    - Two default project topics will be given as follows:
       - (1) Text Summarization
       - (2) Question Answering
-      - (3) Reinforcement Learning
+      - (3) Custom
     - Main criteria focuses on learning, in particular
-      - (1)  
+      - (1)  Novelty (related work) (20%)
+      - (2) Experiment rigour (comparisons) (20%)
+      - (3) Model complexity (competency) (20%)
+      - (4) Evaluation methods (appropriate) (20%)
+      - (5) Effort (not last day!) (20%)
     - Submission deliverables:  
-      - (1) python file (e.g., notebook, .py)
-      - (2) presentation file (e.g., .pdf, .ppt) 
+      - (1) Python file (e.g., notebook, .py)
+      - (2) Presentation file (e.g., .pdf, .ppt) 
+      - (3) Dataset
