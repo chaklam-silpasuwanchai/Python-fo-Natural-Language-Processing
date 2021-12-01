@@ -80,9 +80,9 @@ The course has the following grade criteria:
       -  A6: Pretraining + finetuning (10%)
 2. Final Project (46%) - 1 week project progress
     - Two default project topics will be given as follows:
-      - (1) Text Summarization
-      - (2) Question Answering
-      - (3) Social Media Depression
+      - (1) Text Summarization (Pranissa)
+      - (2) Pretraining + Fineturning on Intent Classification (Sitiporn)
+      - (3) Social Media Depression (Chanapa)
     - Main criteria focuses on learning, in particular
       - (1)  Novelty (related work) (20%)
       - (2) Experiment rigour (comparisons) (20%)
