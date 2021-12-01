@@ -80,7 +80,9 @@ The course has the following grade criteria:
       -  A6: Pretraining + finetuning (10%)
 2. Final Project (46%) - 1 week project progress
     - Three default project topics will be given as follows:
-      - (1) 
+      - (1) Text Summarization
+      - (2) Question Answering
+      - (3) Reinforcement Learning
     - Main criteria focuses on learning, in particular
       - (1)  
     - Submission deliverables:  
