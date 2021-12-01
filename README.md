@@ -82,7 +82,7 @@ The course has the following grade criteria:
     - Two default project topics will be given as follows:
       - (1) Text Summarization
       - (2) Question Answering
-      - (3) Custom
+      - (3) Social Media Depression
     - Main criteria focuses on learning, in particular
       - (1)  Novelty (related work) (20%)
       - (2) Experiment rigour (comparisons) (20%)
