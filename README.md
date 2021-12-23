@@ -30,14 +30,14 @@ This course is best taken after the following courses offered in the August seme
 The course will be delivered in 13 weeks, 2 lectures per week, with each lecture spanning 1.5h.
 
 Part I: Fundamentals
-1. Word Vectors I (*A1 starts*)
-2. Word Vectors II 
-3. Neural Networks Review (*A2 starts, A1 due*)
-4. Backprop Review
-5. Dependency Parsing. (*A3 starts, A2 due*)
+1. Word Vectors - Word2vec (*A1 starts*)
+2. Word Vectors - GloVe
+3. Neural Networks and Backprops Review (*A2 starts, A1 due*)
+4. Dependency Parsing 
+5. Constituency Parsing (*A3 starts, A2 due*)
 
 Part II: Model Architectures
-1. Recurrent Neural Network 
+6. Language Models and Recurrent Neural Network 
 2. LSTM and GRU (*A4 starts, A3 due*)
 3. Machine Translation, Attention 
 4. Contextual Word Representations  
