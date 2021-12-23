@@ -36,7 +36,7 @@ Part I: Fundamentals
 4. Dependency Parsing 
 5. Constituency Parsing (*A3 starts, A2 due*)
 
-Part II: Model Architectures
+ Part II: Model Architectures
 6. Language Models and Recurrent Neural Network 
 2. LSTM and GRU (*A4 starts, A3 due*)
 3. Machine Translation, Attention 
@@ -45,7 +45,7 @@ Part II: Model Architectures
 6. Transformer I  (*A5 starts, A4 due*)
 7. Transformer II, Pretraining, Large Models 
 
-Part III: NLP Tasks and Evaluations
+ Part III: NLP Tasks and Evaluations
 1. Question-Answering (*A6 starts, A5 due*)
 2. Text Generation
 3. **Project Tips and Ideas** (by Pranissa Charnparttarvanit, Chanapa Pananookooln) (*A6 due*; project starts)
