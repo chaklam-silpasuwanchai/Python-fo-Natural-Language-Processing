@@ -11,13 +11,6 @@ I would also like to give huge credits to several githubs/web resources that I h
 - https://github.com/keon/awesome-nlp
 - https://github.com/sebastianruder/NLP-progress
 
-(@)  My first example will be numbered (1).
-(@)  My second example will be numbered (2).
-
-Explanation of examples.
-
-(@)  My third example will be numbered (3).
-
 I would also like to thank students who have contributed:
 
 - Pranisaa Charnparttarvanit; Office Hours:  ; Email: 
@@ -43,35 +36,31 @@ Part I: Fundamentals
 4. Dependency Parsing 
 5. Constituency Parsing (*A3 starts, A2 due*)
 
-
-
-
 Part II: Model Architectures
-{:start="6"}
-6. Language Models and Recurrent Neural Network 
-7. LSTM and GRU (*A4 starts, A3 due*)
-8. Machine Translation, Attention 
-9. Contextual Word Representations  
-10. Convolutional Networks for NLP 
-11. Transformer I  (*A5 starts, A4 due*)
-12. Transformer II, Pretraining, Large Models 
+1. Language Models and Recurrent Neural Network 
+2. LSTM and GRU 
+3. Machine Translation, Attention (*A4 starts, A3 due*)
+4. Transformer   
+5. Pretrained Models - BERT, GPT, T5
+6. Word Vectors - FastText, ElMo   (*A5 starts, A4 due*)
 
  Part III: NLP Tasks and Evaluations
-1. Question-Answering (*A6 starts, A5 due*)
-2. Text Generation
-3. **Project Tips and Ideas** (by Pranissa Charnparttarvanit, Chanapa Pananookooln) (*A6 due*; project starts)
-4. Coreference Resolution
-5. Model Analysis and Explanation
+1. Natural Language Generation
+2. Question-Answering (*A6 starts, A5 due*)
+3. Analysis of Model's Inner Workings
+4. **Project Tips and Ideas** (by TAs) (*A6 due*; project starts)
+5. **Design Workshops Part 1** (by TAs)
+6. **Design Workshops Part 2** (by TAs)
+7. Knowledge Integration
+8. Coreference Resolution
 
 Part IV: Future of NLP
-1. MultiTask Learning
-2. Integration of knowledge into NLP models
-3. Recent NLP Trend I (by Pranissa Charnparttarvanit)
-4. Recent NLP Trend II (by Chanapa Pananookooln)
-5. Recent NLP Trend III (by Sitiporn Saelim)
+1. Recent NLP Trend I (by TAs)
+2. Recent NLP Trend II (by TAs)
+3. Recent NLP Trend III (by TAs)
 
 Part V: Project
-1. **Project Progress Report**
+1. **Project Progress Presentation**
 2. Project Day
 3. Project Day
 4. **Final Project Presentation**
@@ -79,23 +68,23 @@ Part V: Project
 ## Grade Criteria
 
 The course has the following grade criteria:
-1. Assignment (54%) --> 
+1. Assignment (40%) --> 
     - There will be a total of 6 coding assignments
     - Any late work (indicated by Google Classroom) will be deducted 50%.  **NO excuses** will be accepted.
     - We are extremely serious about copying and plagiarism.  This assignment is intended for you to learn.  TA has the privilege to give zeros or partial score to any sort of plagiarism or alike.  Their call IS FINAL.
-      -  A1: Getting Started (4%)
-      -  A2: Word2Vec (10%)
-      -  A3: Dependency Parsing (10%)
-      -  A4: Bidirectional LSTM with Attention for Classification from Scratch (10%)
-      -  A5: Transformers for Seq2Seq from Scratch (10%)
-      -  A6: Pretraining + finetuning (10%)
-2. Final Project (46%) - 1 week project progress
-    - Two default project topics will be given as follows:
+      -  A1: Getting Started (5%)
+      -  A2: Word2Vec (7%)
+      -  A3: Dependency Parsing (7%)
+      -  A4: Bidirectional LSTM with Attention for Classification from Scratch (7%)
+      -  A5: Transformers for Seq2Seq from Scratch (7%)
+      -  A6: Pretraining BERT + finetuning (7%)
+2. Final Project (45%)
+    - Three default project topics will be given as follows:
       - (1) Text Summarization (Pranissa)
       - (2) Pretraining + Fineturning on Intent Classification (Sitiporn)
       - (3) Social Media Depression (Chanapa)
     - Main criteria focuses on learning, in particular
-      - (1)  Novelty (related work) (20%)
+      - (1) Novelty (related work) (20%)
       - (2) Experiment rigour (comparisons) (20%)
       - (3) Model complexity (competency) (20%)
       - (4) Evaluation methods (appropriate) (20%)
@@ -104,3 +93,5 @@ The course has the following grade criteria:
       - (1) Python file (e.g., notebook, .py)
       - (2) Presentation file (e.g., .pdf, .ppt) 
       - (3) Dataset
+3. Weekly Flipped Classroom Quiz (15%)
+    - Containing few MC questions regarding this coming week lecture - starting from the second week!
