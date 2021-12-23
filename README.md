@@ -11,6 +11,13 @@ I would also like to give huge credits to several githubs/web resources that I h
 - https://github.com/keon/awesome-nlp
 - https://github.com/sebastianruder/NLP-progress
 
+(@)  My first example will be numbered (1).
+(@)  My second example will be numbered (2).
+
+Explanation of examples.
+
+(@)  My third example will be numbered (3).
+
 I would also like to thank students who have contributed:
 
 - Pranisaa Charnparttarvanit; Office Hours:  ; Email: 
