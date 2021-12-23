@@ -40,6 +40,7 @@ Part I: Fundamentals
 
 
 Part II: Model Architectures
+{:start="6"}
 6. Language Models and Recurrent Neural Network 
 7. LSTM and GRU (*A4 starts, A3 due*)
 8. Machine Translation, Attention 
