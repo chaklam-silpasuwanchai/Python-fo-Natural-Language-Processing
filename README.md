@@ -11,9 +11,6 @@ I would also like to give huge credits to several githubs/web resources that I h
 - https://github.com/keon/awesome-nlp
 - https://github.com/sebastianruder/NLP-progress
 
-This course requires pre-requisite knowledge on PyTorch and NLP.  Recap here:
-https://github.com/chaklam-silpasuwanchai/Python-for-Data-Science/tree/master/Lectures
-
 I would also like to thank students who have contributed:
 
 - Pranisaa Charnparttarvanit; Office Hours:  ; Email: 
