@@ -2,6 +2,8 @@
 
 This is the repository for the Natural Language Processing at Asian Institute of Technology.
 
+Google slide lectures can be found in:  https://drive.google.com/drive/folders/14x9_-Y_aWysPIZFLaVrZE2ngy2h_beJj?usp=sharing 
+
 I would also like to give huge credits to several githubs/web resources that I have revised to create this:
 
 - https://web.stanford.edu/class/cs224n/
