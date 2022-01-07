@@ -13,8 +13,20 @@ We generally DO NOT recommend collecting your own datasets because it is very ti
 - check out https://nlpprogress.com
 - check out https://machinelearningmastery.com/datasets-natural-language-processing
 - check out https://github.com/niderhoff/nlp-datasets
+- check out http://statmt.org
+- check out http://huggingface.co/datasets
 
 And much more!
+
+## Exciting areas 2021
+- Robstness to domain shift or adversarial attacks
+- Doing empirical work what, why, how large pretrained models learned
+- Transfer learning
+- Zero-shot learning / Few-shot learning on very small datasets
+- Looking at gender bias, trustworthiness, explainability of large models
+- Low resource languages (e.g., Somali)
+- Scaling models down (e.g., GPT-3 is too big, can we prune it while preserving performances?)
+- 
 
 ## Steps to do NLP research
 
@@ -42,6 +54,7 @@ Before attempting to develop more advanced model, prepare yourself a **baseline*
 
 #### 5. Training and debugging neural models
 - Debugging takes a lot of time if you always use the entire dataset.  That is NOT SO SMART.  At the beginning, use only a small toy dataset (e.g., small fraction of training data, or a hand-created dataset).  This will enable quick debugging and coding.
+- Can use Huggingface for pretrained models
 - Use regularization and stopping criteria to avoid overfitting
 - Use performance on the dev set to tune hyperparameters
 - Use ablation experiments, , i.e., remove some part of the full model, to know what goes wrong/right in your model
@@ -51,5 +64,7 @@ Before attempting to develop more advanced model, prepare yourself a **baseline*
 #### 6. Evaluation
 - Choose a typical evaluation metric, such that it allows comparison between your work and past works
 - Human evaluation is often needed, if that evaluation metric is still on progress. For example, in NLP, we are mostly still lacking very good evaluation metric for very open-ended generation such as question-answering, dialogue, summarization.  Thus in this area, complement typical evaluation metric with human judgements.
-- 
+- Compare your metric with past work 
+- Read my Lecture 14: Analysis of Model's Inner Workings to get some idea the possible analysis you can made
+- Check out https://gluebenchmark.com/tasks
 
