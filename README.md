@@ -94,4 +94,4 @@ The course has the following grade criteria:
       - (2) Presentation file (e.g., .pdf, .ppt) 
       - (3) Dataset
 3. Weekly Flipped Classroom Quiz (15%)
-    - Containing few MC questions regarding this coming week lecture - starting from the second week!
+    - Containing few MC questions regarding this coming week lecture (usually two lecture slides) - starting from the second lecture!
