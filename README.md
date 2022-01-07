@@ -1,8 +1,10 @@
 # NLP - Natural Language Processing
 
-This is the repository for the Natural Language Processing at Asian Institute of Technology.
+This is the repository for the Natural Language Processing at Asian Institute of Technology (AIT).
 
 Google slide lectures can be found in:  https://drive.google.com/drive/folders/14x9_-Y_aWysPIZFLaVrZE2ngy2h_beJj?usp=sharing 
+
+For the solution of the assignments, please contact my TA information below.  I have excluded from this repository for learning purposes for my AIT students.
 
 I would also like to give huge credits to several githubs/web resources that I have revised to create this:
 
