@@ -26,7 +26,7 @@ And much more!
 - Looking at gender bias, trustworthiness, explainability of large models
 - Low resource languages (e.g., Somali)
 - Scaling models down (e.g., GPT-3 is too big, can we prune it while preserving performances?)
-- 
+- Establishing evaluation metrics (e.g., BLEU or ROUGE was found very incorrelated with human scores)
 
 ## Steps to do NLP research
 
