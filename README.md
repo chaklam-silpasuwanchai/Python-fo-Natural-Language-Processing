@@ -17,8 +17,8 @@ I would also like to give huge credits to several githubs/web resources that I h
 
 I would also like to thank students who have contributed:
 
-- Pranisaa Charnparttarvanit; Office Hours:  ; Email: 
-- Chanapa Pananookooln; Office Hours:  ; Email: 
+- Pranisaa Charnparttarvanit; Office Hours:  ; Email: st121720@ait.ac.th
+- Chanapa Pananookooln; Office Hours:  ; Email: st121395@ait.ac.th
 
 If you have any questions regarding the lectures/assignments, do not hesitate to contact them in their office hours.
 
@@ -99,3 +99,4 @@ The course has the following grade criteria:
       - (3) Dataset
 3. Weekly Flipped Classroom Quiz (15%)
     - Containing few MC questions regarding this coming week lecture (usually two lecture slides) - starting from the second lecture!
+    - Any late work (indicated by Google Classroom) will be deducted 30%.  **NO excuses** will be accepted.
