@@ -17,8 +17,8 @@ I would also like to give huge credits to several githubs/web resources that I h
 
 I would also like to thank students who have contributed:
 
-- Pranisaa Charnparttarvanit; Office Hours:  ; Email: st121720@ait.ac.th
-- Chanapa Pananookooln; Office Hours:  ; Email: st121395@ait.ac.th
+- Pranisaa Charnparttarvanit; Office Hours: Fri. 16-17h ; Email: st121720@ait.ac.th
+- Chanapa Pananookooln; Office Hours: Fri. 16-17h ; Email: st121395@ait.ac.th
 
 If you have any questions regarding the lectures/assignments, do not hesitate to contact them in their office hours.
 
