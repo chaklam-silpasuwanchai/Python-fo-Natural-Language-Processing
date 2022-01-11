@@ -97,6 +97,6 @@ The course has the following grade criteria:
       - (1) Python file (e.g., notebook, .py)
       - (2) Presentation file (e.g., .pdf, .ppt) 
       - (3) Dataset
-3. Weekly Flipped Classroom Quiz (15%)
+3. Flipped Classroom Quiz (15%)
     - Containing few MC questions regarding this coming week lecture (usually two lecture slides) - starting from the second lecture!
     - Any late work (indicated by Google Classroom) will be deducted 30%.  **NO excuses** will be accepted.
