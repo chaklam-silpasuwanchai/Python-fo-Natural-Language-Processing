@@ -8,7 +8,7 @@ For the solution of the assignments, please contact my TA information below.  I 
 
 I would also like to give huge credits to several githubs/web resources that I have revised to create this:
 
-- https://web.stanford.edu/class/cs224n/ (a lot of our assignments come from Manning's awesome course!)
+- https://web.stanford.edu/class/cs224n/ (a lot of our assignments and lectures come from Manning's awesome course!)
 - https://github.com/bentrevett (created an awesome github for learning NLP!)
 - https://github.com/graykode/nlp-tutorial (a simple github with very short code; good for learning)
 - https://github.com/mhagiwara/100-nlp-papers (listed first 100 influential NLP papers)
