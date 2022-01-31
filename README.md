@@ -8,12 +8,12 @@ For the solution of the assignments, please contact my TA information below.  I 
 
 I would also like to give huge credits to several githubs/web resources that I have revised to create this:
 
-- https://web.stanford.edu/class/cs224n/
-- https://github.com/bentrevett
-- https://github.com/graykode/nlp-tutorial
-- https://github.com/mhagiwara/100-nlp-papers
-- https://github.com/keon/awesome-nlp
-- https://github.com/sebastianruder/NLP-progress
+- https://web.stanford.edu/class/cs224n/ (a lot of our assignments and lectures come from Manning's awesome course!)
+- https://github.com/bentrevett (created an awesome github for learning NLP!)
+- https://github.com/graykode/nlp-tutorial (a simple github with very short code; good for learning)
+- https://github.com/mhagiwara/100-nlp-papers (listed first 100 influential NLP papers)
+- https://github.com/keon/awesome-nlp (collection of all NLP learning resources)
+- https://github.com/sebastianruder/NLP-progress (omg...this is like a mini wikipedia for NLP!)
 
 I would also like to thank students who have contributed:
 

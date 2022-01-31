@@ -20,7 +20,7 @@ And much more!
 
 ## Exciting areas 2021
 - Robstness to domain shift or adversarial attacks
-- Doing empirical work what, why, how large pretrained models learned
+- Doing analytical work what, why, how large pretrained models learned
 - Transfer learning
 - Zero-shot learning / Few-shot learning on very small datasets
 - Looking at gender bias, trustworthiness, explainability of large models
