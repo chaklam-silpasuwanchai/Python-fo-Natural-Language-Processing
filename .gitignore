@@ -108,8 +108,6 @@ venv.bak/
 **/.DS_Store
 **/._.DS_Store
 
-
-'05 - NLP + TorchText + Embedding + BiLSTM + General Attention.ipynb'
-'06 - NLP + TorchText + Embedding + BiLSTM + Self-Attention.ipynb'
-'07 - NLP + TorchText + Embedding + BiLSTM + Muli-Headed-Self-Attention.ipynb'
-
+05\ -\ NLP\ +\ TorchText\ +\ Embedding\ +\ BiLSTM\ +\ General\ Attention.ipynb
+06\ -\ NLP\ +\ TorchText\ +\ Embedding\ +\ BiLSTM\ +\ Self-Attention.ipynb
+07\ -\ NLP\ +\ TorchText\ +\ Embedding\ +\ BiLSTM\ +\ Muli-Headed-Self-Attention.ipynb
