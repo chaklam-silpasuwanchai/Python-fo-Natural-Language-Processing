@@ -2,6 +2,8 @@
 
 ## Finding existing research
 
+READ A LOT!!!
+
 Often helpful to check existing research how they do the research, e.g., what task they used, what datasets are common in the area, which evaluation metrics to use.  Reading papers will save you A LOT of time
 - Browse recent publications at any of the top venues where NLP / Deep learning is published: ACL, EMNLP, TACL, NAACL, EACL, NIPS, ICLR, ICML, NIPS, etc.
 - Publications at many NLP venues are indexed at http://www.aclweb.org/anthology
