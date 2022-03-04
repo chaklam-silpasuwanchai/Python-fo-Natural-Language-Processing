@@ -59,9 +59,7 @@ Part II: Model Architectures
 8. Coreference Resolution
 
 Part IV: Future of NLP
-1. Recent NLP Trend I (by TAs)
-2. Recent NLP Trend II (by TAs)
-3. Recent NLP Trend III (by TAs)
+1. Recent NLP Trend (by TAs)
 
 Part V: Project
 1. **Project Progress Presentation**
