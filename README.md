@@ -57,6 +57,8 @@ Part II: Model Architectures
 6. **Design Workshops Part 2** (by TAs)
 7. Knowledge Integration
 8. Coreference Resolution
+9. Multi-Task Learning
+10. Few-Shot Learning
 
 Part IV: Future of NLP
 1. Recent NLP Trend (by TAs)
