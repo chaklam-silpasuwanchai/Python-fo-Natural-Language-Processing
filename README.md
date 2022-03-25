@@ -55,13 +55,14 @@ Part II: Model Architectures
 4. **Project Tips and Ideas** (by TAs) (*A6 due*; project starts)
 5. **Design Workshops Part 1** (by TAs)
 6. **Design Workshops Part 2** (by TAs)
-7. Knowledge Integration
-8. Coreference Resolution
-9. Multi-Task Learning
-10. Meta Learning
+
 
 Part IV: Future of NLP
 1. Recent NLP Trend (by TAs)
+2. Knowledge Integration
+3. Coreference Resolution
+4. Multi-Task Learning
+5. Meta Learning
 
 Part V: Project
 1. **Project Progress Presentation**
