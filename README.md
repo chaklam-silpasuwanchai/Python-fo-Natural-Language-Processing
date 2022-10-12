@@ -53,13 +53,14 @@ Part II: Model Architectures
 2. Question-Answering (*A6 starts, A5 due*)
 3. Analysis of Model's Inner Workings
 4. **Project Tips and Ideas** (by TAs) (*A6 due*; project starts)
-5. **Design Workshops Part 1** (by TAs)
-6. **Design Workshops Part 2** (by TAs)
-7. Knowledge Integration
-8. Coreference Resolution
+5. **Project Proposal**
 
 Part IV: Future of NLP
-1. Recent NLP Trend (by TAs)
+1. Knowledge Integration
+2. Coreference Resolution
+3. Recent NLP Trend (by TAs)
+4. Multi-Task Learning
+5. Meta Learning
 
 Part V: Project
 1. **Project Progress Presentation**
