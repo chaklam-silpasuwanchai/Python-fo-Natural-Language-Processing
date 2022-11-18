@@ -4,8 +4,6 @@ This is the repository for the Natural Language Processing at Asian Institute of
 
 Google slide lectures can be found in:  https://drive.google.com/drive/folders/14x9_-Y_aWysPIZFLaVrZE2ngy2h_beJj?usp=sharing 
 
-For the solution of the assignments, please contact my TA information below.  I have excluded from this repository for learning purposes for my AIT students.
-
 I would also like to give huge credits to several githubs/web resources that I have revised to create this:
 
 - https://web.stanford.edu/class/cs224n/ (a lot of our assignments and lectures come from Manning's awesome course!)
@@ -17,10 +15,9 @@ I would also like to give huge credits to several githubs/web resources that I h
 
 I would also like to thank students who have contributed:
 
-- Pranisaa Charnparttarvanit; Office Hours: Fri. 16-17h ; Email: st121720@ait.ac.th
-- Chanapa Pananookooln; Office Hours: Fri. 16-17h ; Email: st121395@ait.ac.th
-
-If you have any questions regarding the lectures/assignments, do not hesitate to contact them in their office hours.
+- Amanda Raj Shrestha;  Email: st122245@ait.ac.th
+- Pranisaa Charnparttarvanit; Email: st121720@ait.ac.th
+- Chanapa Pananookooln; Email: st121395@ait.ac.th
 
 ## Prerequisites
 
