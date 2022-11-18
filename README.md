@@ -19,3 +19,27 @@ I would also like to thank students who have contributed:
 - Pranisaa Charnparttarvanit; Email: st121720@ait.ac.th
 - Chanapa Pananookooln; Email: st121395@ait.ac.th
 
+Tutorial covering (each lab is 3 hours):
+
+1. Fundamentals
+   - Word Vectors (Word2Vec, GloVe, FastText)
+   - Dependency Parsing
+   - Constituency Parsing
+
+2. Networks
+   - LSTM
+   - LSTM with attention
+   - Transformers
+   - Pretrained Models
+
+3. Natural Language Generation
+   1. Question and Answering
+   2. Text Summarization
+
+4. Explanable AI
+   1. Understanding attention
+   2. Salient maps
+
+5. Knowledge integration
+6. Multi-Task learning
+7. Few-Shot learning
