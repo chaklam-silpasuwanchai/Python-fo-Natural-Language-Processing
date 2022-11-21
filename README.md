@@ -1,6 +1,6 @@
 # Python for Natural Language Processing
 
-This is the repository for the Natural Language Processing at Asian Institute of Technology (AIT).
+This is the repository for the Natural Language Processing.
 
 Google slide lectures can be found in:  https://drive.google.com/drive/folders/14x9_-Y_aWysPIZFLaVrZE2ngy2h_beJj?usp=sharing and  
 
