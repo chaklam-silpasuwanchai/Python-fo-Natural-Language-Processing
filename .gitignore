@@ -107,3 +107,9 @@ venv.bak/
 ._.DS_Store
 **/.DS_Store
 **/._.DS_Store
+
+# spacy
+configs/
+docs/
+data/
+output/
