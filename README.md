@@ -1,17 +1,19 @@
 # Python for Natural Language Processing (On-progress...)
 
-This is the repository for the Natural Language Processing.
+This is the repository for the Natural Language Processing at Asian Institute of Technology
 
 Google slide lectures can be found in:  https://drive.google.com/drive/folders/14x9_-Y_aWysPIZFLaVrZE2ngy2h_beJj?usp=sharing and  
 
 I would also like to give huge credits to several githubs/web resources that I have revised to create this:
 
+## SpaCy
 http://spacy.pythonhumanities.com/
 http://courses.spacy.com
+
+## Torchtext
 https://github.com/bentrevett (created an awesome github for learning NLP!)
 
-
-
+## Other useful stuffs
 - https://web.stanford.edu/class/cs224n/ (a lot of our assignments and lectures come from Manning's awesome course!)
 - https://github.com/graykode/nlp-tutorial (a simple github with very short code; good for learning)
 - https://github.com/mhagiwara/100-nlp-papers (listed first 100 influential NLP papers)
