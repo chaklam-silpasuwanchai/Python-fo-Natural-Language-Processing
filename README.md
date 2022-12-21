@@ -43,23 +43,23 @@ Focus on SpaCy, one of the most commonly used tool in NLP
    - SpaCy 
    - SpaCy++ (lol, too lazy to write them down...)
 
-3. DL
+3. DL (on-progress - still not finished with case studies...)
 Focus on LSTM, CNN, Transformers
    - Classification
    - Generation
 
-4. Huggingface
+4. Huggingface (on-progress)
 Learning a friendly-to-use pretrained framework
    - Introduction to Huggingface
    - Case studies on summarization, question answering, multi-task learning
 
-5. AllenNLP
+5. AllenNLP (on-progress)
 Learning one of most popular research framework in NLP
    - Inroduction to AllenNLP
    - Explanable AI with AllenNLP interpret
    - Case studies
 
-6. Explanable AI
+6. Explanable AI (on-progress)
 Learn some of the explanable AI tools in NLP
    - Captum
    - Language Interpretability Tool (LIT)
