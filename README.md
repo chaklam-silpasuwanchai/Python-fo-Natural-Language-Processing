@@ -4,25 +4,16 @@ This is the repository for the Natural Language Processing at Asian Institute of
 
 Google slide lectures can be found in:  https://drive.google.com/drive/folders/14x9_-Y_aWysPIZFLaVrZE2ngy2h_beJj?usp=sharing  
 
+### Credits
+
 I would also like to give huge credits to several githubs/web resources that I have revised to create this:
 
-Fundamental
 - https://web.stanford.edu/class/cs224n/ (our dependency parser tutorial is dissected from their assignment 3)
-
-NLP
 - http://spacy.pythonhumanities.com/ (our spaCy tutorials are edited from here)
 - http://courses.spacy.com (and here as well)
-
-DL
 - https://github.com/bentrevett (our DL part is edited from here)
-
-Huggingface
 - https://huggingface.co/course (there is no better tutorial than what huggingface made themselves)
-
-AllenNLP
 - https://guide.allennlp.org (same here..)
-
-Captum
 - https://captum.ai/tutorials/
 
 Other useful stuffs
@@ -36,6 +27,8 @@ I would also like to thank students who have contributed:
 - Amanda Raj Shrestha;  Email: st122245@ait.ac.th
 - Pranisaa Charnparttarvanit; Email: st121720@ait.ac.th
 - Chanapa Pananookooln; Email: st121395@ait.ac.th
+
+### Outline
 
 Code tutorials covering (each lab is 3 hours; 2 labs per week):
 
