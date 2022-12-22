@@ -113,3 +113,7 @@ configs/
 docs/
 data/
 output/
+
+#huggingface
+model_weights/
+tokenizer_weights/
