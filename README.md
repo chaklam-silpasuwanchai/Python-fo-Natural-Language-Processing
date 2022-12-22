@@ -8,16 +8,16 @@ Google slide lectures can be found in:  https://drive.google.com/drive/folders/1
 
 I would also like to give huge credits to several githubs/web resources that I have revised to create this:
 
-- https://web.stanford.edu/class/cs224n/ (our dependency parser tutorial is dissected from their assignment 3)
-- http://spacy.pythonhumanities.com/ (our spaCy tutorials are edited from here)
-- http://courses.spacy.com (and here as well)
-- https://github.com/bentrevett (our DL part is edited from here)
-- https://huggingface.co/course (there is no better tutorial than what huggingface made themselves)
-- https://guide.allennlp.org (same here..)
+- https://web.stanford.edu/class/cs224n/
+- http://spacy.pythonhumanities.com/
+- http://courses.spacy.com
+- https://github.com/bentrevett
+- https://huggingface.co/course
+- https://guide.allennlp.org
 - https://captum.ai/tutorials/
 
 Other useful stuffs
-- https://github.com/graykode/nlp-tutorial (our word2vec comes from here....)
+- https://github.com/graykode/nlp-tutorial
 - https://github.com/mhagiwara/100-nlp-papers (listed first 100 influential NLP papers)
 - https://github.com/keon/awesome-nlp (collection of all NLP learning resources)
 - https://github.com/sebastianruder/NLP-progress (omg...this is like a mini wikipedia for NLP!)
