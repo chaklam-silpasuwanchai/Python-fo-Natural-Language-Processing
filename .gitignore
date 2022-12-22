@@ -113,6 +113,7 @@ configs/
 docs/
 data/
 output/
+models/
 
 #huggingface
 model_weights/
