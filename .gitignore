@@ -118,3 +118,6 @@ models/
 #huggingface
 model_weights/
 tokenizer_weights/
+
+#allennlp
+model/
