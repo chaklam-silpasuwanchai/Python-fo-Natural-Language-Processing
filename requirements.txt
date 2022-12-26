@@ -1,0 +1,17 @@
+allennlp                           
+docker                            
+docker-compose                    
+fastapi                          
+gensim
+huggingface_hub                           
+matplotlib                        
+numpy                             
+pandas                            
+scikit-learn                            
+scipy                            
+seaborn                           
+spacy                            
+torch                       
+torchtext                       
+tqdm                             
+transformers               
