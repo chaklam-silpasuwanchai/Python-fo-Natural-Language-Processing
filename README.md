@@ -14,6 +14,7 @@ I would also like to give huge credits to several githubs/web resources that I h
 - https://github.com/bentrevett
 - https://huggingface.co/course
 - https://guide.allennlp.org
+- https://jbarrow.ai/allennlp-the-hard-way-1/
 - https://captum.ai/tutorials/
 
 Other useful stuffs
