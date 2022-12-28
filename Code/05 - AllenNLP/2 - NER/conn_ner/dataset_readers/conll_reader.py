@@ -8,10 +8,11 @@ from allennlp.data.fields import Field, LabelField, TextField, SequenceLabelFiel
 @DatasetReader.register("conll_03_reader")
 class CoNLL03DatasetReader(DatasetReader):    
     def __init__(self,
-                token_indexers: Dict[str, TokenIndexer] = None,
-                lazy: bool = False) -> None:
-            super().__init__(lazy)
-            self._token_indexers = token_indexers or {'tokens': SingleIdTokenIndexer()}
+                 token_indexers: Dict[str, TokenIndexer] = None,
+                 **kwargs,
+                 ) -> None:
+        super().__init__(**kwargs)
+        self._token_indexers = token_indexers or {'tokens': SingleIdTokenIndexer()}
     
     def _read(self, file_path: str) -> Iterator[Instance]:
         is_divider = lambda line: line.strip() == ''
