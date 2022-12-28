@@ -30,6 +30,7 @@ class NerLSTM(Model):
     def forward(self,
                 tokens: Dict[str, torch.Tensor],
                 label: Optional[torch.Tensor] = None) -> Dict[str, torch.Tensor]:
+        
         mask = get_text_field_mask(tokens)
         
         #the tokens input isn’t a tensor of token indexes, it’s a dict. 
@@ -41,13 +42,14 @@ class NerLSTM(Model):
         embedded = self._embedder(tokens) #embed the input tokens using our pretrained word embeddings
         encoded = self._encoder(embedded, mask) #encode them using our LSTM or GRU encoder
         classified = self._classifier(encoded) #classify each timestep to the target label space
-
+        
         self._f1(classified, label, mask) #compute some classification loss over the sequence of tokens
 
         output: Dict[str, torch.Tensor] = {}
+        output['logits'] = classified  #for reporting
 
         if label is not None:
-            output["loss"] = sequence_cross_entropy_with_logits(classified, label, mask)
+            output["loss"] = sequence_cross_entropy_with_logits(classified, label, mask) #for backpropagating
             
         #`sequence_cross_entropy_with_logits` - this is the cross-entropy loss applied to sequence classification/tagging tasks. 
 
