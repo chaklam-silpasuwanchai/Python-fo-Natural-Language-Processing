@@ -11,17 +11,18 @@ I would also like to give huge credits to several githubs/web resources that I h
 - https://web.stanford.edu/class/cs224n/
 - http://spacy.pythonhumanities.com/
 - http://courses.spacy.com
+- https://github.com/kushalj001/pytorch-question-answering
 - https://github.com/bentrevett
+- https://github.com/graykode/nlp-tutorial
 - https://huggingface.co/course
 - https://guide.allennlp.org
 - https://jbarrow.ai/allennlp-the-hard-way-1/
 - https://captum.ai/tutorials/
 
-Other useful stuffs
-- https://github.com/graykode/nlp-tutorial
-- https://github.com/mhagiwara/100-nlp-papers (listed first 100 influential NLP papers)
+Other (very) useful stuffs to get you started in the excited area of NLP
 - https://github.com/keon/awesome-nlp (collection of all NLP learning resources)
 - https://github.com/sebastianruder/NLP-progress (omg...this is like a mini wikipedia for NLP!)
+- https://github.com/mhagiwara/100-nlp-papers (listed first 100 influential NLP papers)
 
 I would also like to thank students who have contributed:
 
@@ -48,20 +49,9 @@ Focus on SpaCy, one of the most commonly used tool in NLP
 Focus on LSTM, CNN, Transformers
    - Classification
    - Generation
+   - Case studies
 
 4. Huggingface (on-progress)
 Learning a friendly-to-use pretrained framework
    - Introduction to Huggingface
    - Case studies on summarization, question answering, multi-task learning
-
-5. AllenNLP (on-progress)
-Learning one of most popular research framework in NLP
-   - Inroduction to AllenNLP
-   - Explanable AI with AllenNLP interpret
-   - Case studies
-
-6. Explanable AI (on-progress)
-Learn some of the explanable AI tools in NLP
-   - Captum
-   - Language Interpretability Tool (LIT)
-   - AllenNLP interpret
