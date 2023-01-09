@@ -33,17 +33,20 @@ I would also like to thank students who have contributed:
 Code tutorials covering (each lab is 3 hours; 2 labs per week):
 
 1. Fundamentals
+
 Focus on fundamentals of NLP
    - Word Vectors - Word2Vec
    - Word Vectors - GloVe
    - Dependency Parsing
 
 2. NLP
+
 Focus on SpaCy, one of the most commonly used tool in NLP
    - SpaCy 
    - SpaCy++
 
 3. DL
+
 Focus on LSTM, CNN, Transformers
    - Classification
    - Generation
@@ -54,6 +57,7 @@ Focus on LSTM, CNN, Transformers
       - Coreference resolution
 
 4. Huggingface
+
 Learning a friendly-to-use pretrained framework
    - Introduction to Huggingface
    - Case studies on summarization, question answering, etc.
