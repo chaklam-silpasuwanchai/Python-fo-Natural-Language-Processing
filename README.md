@@ -1,4 +1,4 @@
-# Python for Natural Language Processing (On-progress...)
+# Python for Natural Language Processing
 
 This is the repository for the Natural Language Processing at Asian Institute of Technology.
 
@@ -15,8 +15,6 @@ I would also like to give huge credits to several githubs/web resources that I h
 - https://github.com/bentrevett
 - https://github.com/graykode/nlp-tutorial
 - https://huggingface.co/course
-- https://guide.allennlp.org
-- https://jbarrow.ai/allennlp-the-hard-way-1/
 - https://captum.ai/tutorials/
 
 Other (very) useful stuffs to get you started in the excited area of NLP
@@ -43,15 +41,19 @@ Focus on fundamentals of NLP
 2. NLP
 Focus on SpaCy, one of the most commonly used tool in NLP
    - SpaCy 
-   - SpaCy++ (lol, too lazy to write them down...)
+   - SpaCy++
 
-3. DL (on-progress - still not finished with case studies...)
+3. DL
 Focus on LSTM, CNN, Transformers
    - Classification
    - Generation
    - Case studies
+      - NER
+      - QA
+      - Summarization
+      - Coreference resolution
 
-4. Huggingface (on-progress)
+4. Huggingface
 Learning a friendly-to-use pretrained framework
    - Introduction to Huggingface
-   - Case studies on summarization, question answering, multi-task learning
+   - Case studies on summarization, question answering, etc.
