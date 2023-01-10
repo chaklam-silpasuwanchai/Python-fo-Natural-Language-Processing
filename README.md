@@ -12,6 +12,7 @@ I would also like to give huge credits to several githubs/web resources that I h
 - http://spacy.pythonhumanities.com/
 - http://courses.spacy.com
 - https://github.com/kushalj001/pytorch-question-answering
+- https://github.com/DSKSD/DeepNLP-models-Pytorch
 - https://github.com/bentrevett
 - https://github.com/graykode/nlp-tutorial
 - https://huggingface.co/course
