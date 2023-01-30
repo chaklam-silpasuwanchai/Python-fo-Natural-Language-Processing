@@ -34,8 +34,10 @@ I would also like to thank students who have contributed:
 Code tutorials covering (each lab is 3 hours; 2 labs per week):
 
 1. Fundamentals
-   - Word Vectors - Word2Vec
+   - Word Vectors - Word2Vec (Naive)
+   - Word Vectors - Word2Vec (Negative sampling)
    - Word Vectors - GloVe
+   - Window-Based Name Entity Recognition
    - Dependency Parsing
 
 2. NLP
