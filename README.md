@@ -50,6 +50,7 @@ Code tutorials covering (each lab is 3 hours; 2 labs per week):
    - Case studies
       - NER
       - QA
+      - Language modeling
       - Summarization
       - Coreference resolution
 
