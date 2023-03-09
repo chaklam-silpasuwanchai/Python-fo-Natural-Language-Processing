@@ -31,7 +31,7 @@ I would also like to thank students who have contributed:
 
 ### Outline
 
-Code tutorials covering (each lab is 3 hours; 2 labs per week):
+Code tutorials covering (each lab is 3 hours):
 
 1. Fundamentals
    - Word Vectors - Word2Vec (Naive)
