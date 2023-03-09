@@ -42,17 +42,14 @@ Code tutorials covering (each lab is 3 hours; 2 labs per week):
 
 2. NLP
    - SpaCy 
-   - SpaCy++
 
 3. DL
    - Classification
    - Generation
    - Case studies
-      - NER
       - QA
       - Language modeling
       - Summarization
-      - Coreference resolution
 
 4. Huggingface
    - Introduction to Huggingface
