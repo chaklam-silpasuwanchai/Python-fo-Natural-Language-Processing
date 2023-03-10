@@ -16,12 +16,12 @@ I would also like to give huge credits to several githubs/web resources that I h
 - https://github.com/bentrevett
 - https://github.com/graykode/nlp-tutorial
 - https://huggingface.co/course
-- https://captum.ai/tutorials/
 
 Other (very) useful stuffs to get you started in the excited area of NLP
 - https://github.com/keon/awesome-nlp (collection of all NLP learning resources)
 - https://github.com/sebastianruder/NLP-progress (omg...this is like a mini wikipedia for NLP!)
 - https://github.com/mhagiwara/100-nlp-papers (listed first 100 influential NLP papers)
+- https://captum.ai/tutorials/ (good for working on explanable AI)
 
 I would also like to thank students who have contributed:
 
