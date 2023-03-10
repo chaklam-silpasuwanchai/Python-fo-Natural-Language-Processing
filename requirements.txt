@@ -11,6 +11,11 @@ scipy
 seaborn                           
 spacy                            
 torch                       
-torchtext                       
+torchtext  
+torchvision                     
 tqdm                             
-transformers               
+transformers
+evaluate
+sentencepiece
+accelerate
+datasets               
