@@ -16,6 +16,7 @@ I would also like to give huge credits to several githubs/web resources that I h
 - https://github.com/bentrevett
 - https://github.com/graykode/nlp-tutorial
 - https://huggingface.co/course
+- https://kikaben.com
 
 Other (very) useful stuffs to get you started in the excited area of NLP
 - https://github.com/keon/awesome-nlp (collection of all NLP learning resources)
