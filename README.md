@@ -18,6 +18,7 @@ I would also like to give huge credits to several githubs/web resources that I h
 - <https://huggingface.co/course>
 - <https://kikaben.com>
 - <https://github.com/kipgparker/soft-prompt-tuning>
+- <https://github.com/moein-shariatnia/OpenAI-CLIP>
 
 Other (very) useful stuffs to get you started in the excited area of NLP
 
