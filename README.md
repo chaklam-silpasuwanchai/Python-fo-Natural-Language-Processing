@@ -54,7 +54,9 @@ Code tutorials covering (each lab is 3 hours):
       - QA
       - Language modeling
       - Summarization
+      - Pruning
+      - Contrastive learning
 
 4. Huggingface
    - Introduction to Huggingface
-   - Case studies on summarization, question answering, etc.
+   - Case studies on summarization, question answering, soft prompt etc.
