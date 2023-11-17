@@ -121,3 +121,6 @@ tokenizer_weights/
 
 #allennlp
 temp/
+
+#quiz&assignment
+06 - AssignmentQuiz/
