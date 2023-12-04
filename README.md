@@ -1,4 +1,4 @@
-# Python for Natural Language Processing
+# Natural Language Processing
 
 This is the repository for the Natural Language Processing course at the Asian Institute of Technology.
 
