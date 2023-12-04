@@ -42,8 +42,8 @@ I would also like to thank students who have contributed:
    - Word Vectors - GloVe
    - Window-Based Name Entity Recognition
    - Dependency Parsing
-2. NLP - SpaCy
-3. DL
+   - Information Retrieval / Salient Spans
+2. DL
    - Classification
    - Generation
    - Case studies
@@ -53,5 +53,6 @@ I would also like to thank students who have contributed:
       - Pruning
       - Contrastive learning
       - Much more...
+3. SpaCy
 4. Huggingface
 5. Retrieval Augmented Generation
