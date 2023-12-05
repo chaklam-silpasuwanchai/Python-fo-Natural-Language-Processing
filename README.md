@@ -4,6 +4,8 @@ This is the repository for the Natural Language Processing course at the Asian I
 
 Google slide lectures can be found:  <https://drive.google.com/drive/folders/14x9_-Y_aWysPIZFLaVrZE2ngy2h_beJj?usp=sharing>  
 
+YT playlist: <https://www.youtube.com/playlist?list=PLqL-7eLmqd9V3faivSAST76YQClS44dSz>
+
 ## Credits
 
 I would also like to give huge credits to several GitHub / web resources that I have revised to create this:
