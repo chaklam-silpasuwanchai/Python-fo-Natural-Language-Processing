@@ -128,3 +128,5 @@ temp/
 _code-along/
 
 chakyenv/
+
+.vector_cache/
