@@ -48,13 +48,9 @@ I would also like to thank students who have contributed:
 2. DL
    - Classification
    - Sequence-to-Sequence Models
-      - LSTM
-      - biGRU
-      - CNN
-      - Transformer
+      - LSTM, biGRU, CNN, Transformer
    - Langauge Models
-      - LSTM
-      - Transformer
+      - LSTM, Transformer
    - Masked Language Models
       - BERT
       - Much more...
@@ -62,7 +58,7 @@ I would also like to thank students who have contributed:
       - QA
       - Summarization
       - Pruning
-      - distilBET
+      - distilBERT
       - SentenceBERT
       - SimCSE
       - Much more...
@@ -72,20 +68,8 @@ I would also like to thank students who have contributed:
    - Case studies
 
 5. Retrieval Augmented Generation
-   - Prompt
-   - Chain
-   - Tools
-   - Agent
+   - Prompt, Chain, Tools, Agent
 6. Multimodal Language Model 
-   - ViT
-   - BEIT
-   - CLIP
-   - SimVLM
-   - Flamingo
-   - BLIP-2
-   - CoCa
+   - ViT, BEIT, CLIP, SimVLM, Flamingo, BLIP-2, CoCa
 7. Reinforcement Learning with Human Feedback
-   - SFT
-   - PPO
-   - DPO
-   - RRHF
+   - SFT, PPO, DPO, RRHF
