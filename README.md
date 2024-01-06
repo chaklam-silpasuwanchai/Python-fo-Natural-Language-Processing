@@ -47,14 +47,45 @@ I would also like to thank students who have contributed:
    - Information Retrieval / Salient Spans
 2. DL
    - Classification
-   - Generation
+   - Sequence-to-Sequence Models
+      - LSTM
+      - biGRU
+      - CNN
+      - Transformer
+   - Langauge Models
+      - LSTM
+      - Transformer
+   - Masked Language Models
+      - BERT
+      - Much more...
    - Case studies
       - QA
-      - Language modeling
       - Summarization
       - Pruning
-      - Contrastive learning
+      - distilBET
+      - SentenceBERT
+      - SimCSE
       - Much more...
+
 3. SpaCy
 4. Huggingface
+   - Case studies
+
 5. Retrieval Augmented Generation
+   - Prompt
+   - Chain
+   - Tools
+   - Agent
+6. Multimodal Language Model 
+   - ViT
+   - BEIT
+   - CLIP
+   - SimVLM
+   - Flamingo
+   - BLIP-2
+   - CoCa
+7. Reinforcement Learning with Human Feedback
+   - SFT
+   - PPO
+   - DPO
+   - RRHF

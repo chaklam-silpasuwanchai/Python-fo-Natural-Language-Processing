@@ -18,4 +18,5 @@ transformers
 evaluate
 sentencepiece
 accelerate
-datasets               
+datasets     
+langchain          
