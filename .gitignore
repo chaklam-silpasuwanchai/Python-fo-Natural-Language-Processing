@@ -122,9 +122,6 @@ tokenizer_weights/
 #allennlp
 temp/
 
-#quiz&assignment
-Assignment-Quiz/
-
 _code-along/
 
 chakyenv/
