@@ -1,12 +1,2 @@
 quiz/*
-solution/assignment1-search-engine
-solution/assignment2-language-model
-solution/assignment3-machine-translation
-solution/assignment4-resume-parser
-solution/assignment5-sentence-bert
-solution/assignment6-student-layer-initialization
-solution/assignment7-ait-gpt
-solution/assignment8-alpaca-instruction-hf
-solution/quiz1
-solution/quiz2
-solution/quiz3
+solution/*
