@@ -10,6 +10,11 @@ To tackle this, Meta AI introduced **Retrieval-Augmented Generation (RAG)**, whi
 
 <img src="./figures/rag-lewis.png" >
 
+## Components in a RAG pipeline:
+**Retriever component:**  retrieves additional context from an external database for the LLM to answer the query.
+    
+**Generator component:** generates an answer based on a prompt augmented with the retrieved information.
+
 ## Existing RAG Techniques
 Here are the details of all the Advanced RAG techniques covered in this repository.
 
@@ -23,3 +28,80 @@ Here are the details of all the Advanced RAG techniques covered in this reposito
 | Contextual RAG | Compresses retrieved documents to keep only relevant details for concise and accurate responses. |
 | Rewrite Retrieve Read (RRR) | Improves query, retrieves better data, and generates accurate answers. |
 | Unstructured RAG | This method designed to handle documents that combine text, tables, and images. |
+
+## Evaluation
+
+Why BLEU and ROUGE Fall Short for RAG
+
+In RAG applications, the primary goal is not just to generate responses that look similar to reference answers but to ensure that the responses are factually correct, relevant, and supported by retrieved documents. BLEU and ROUGE, while useful for general text generation tasks, do not adequately address these needs. This is where RAGAS metrics, specifically designed for RAG models, become essential.
+
+<img src="./figures/ragas-score.webp" >
+
+RAGAS represent evaluate the retrieval component (context_relevancy and context_recall) and the generative component (faithfulness and answer_relevancy) separately
+
+**Faithfulness:** measures the factual accuracy of the generated response based on the retrieved documents.
+
+**Answer Relevancy:** evaluates how relevant the generated response is to the original query.
+
+**Context Precision:** measures the precision of the retrieved documents in providing relevant information to the query.
+
+**Context Recall:** assesses how well the retrieved documents cover all relevant aspects of the query.
+
+## Sample RAGAS implementations
+```
+from datasets import Dataset
+from ragas import evaluate
+from ragas.metrics import (
+    answer_relevancy,
+    faithfulness,
+    context_recall,
+    context_precision,
+    context_entity_recall,
+    answer_similarity,
+    answer_correctness
+)
+
+from ragas.metrics.critique import (
+    harmfulness, 
+    maliciousness, 
+    coherence, 
+    correctness, 
+    conciseness
+)
+
+# Example data
+data = {
+    "query": ["What is the capital of France?"],
+    "generated_response": ["Paris is the capital of France."],
+    "retrieved_documents": [["Paris is the capital of France. It is a major European city known for its culture."]]
+}
+
+# Convert the data to a Hugging Face Dataset
+dataset = Dataset.from_dict(data)
+
+# Define the metrics you want to evaluate
+metrics = [
+    faithfulness,
+    answer_relevancy,
+    answer_correctness,
+    context_precision,
+    context_recall,
+]
+
+# Evaluate the dataset using the selected metrics
+results = evaluate(dataset, metrics)
+
+# Display the results
+for metric_name, score in results.items():
+    print(f"{metric_name}: {score:.2f}")
+```
+
+## Appendix 
+- Semantic Chunking
+  - Breakpoint-based Semantic Chunker
+  - Clustering-based Semantic Chunker
+- Agentic Chunking
+- [Qu et al. (2024)](https://arxiv.org/abs/2410.13070) Is Semantic Chunking Worth the Computational Cost? 
+- [Chen et al. (2024)](https://arxiv.org/pdf/2312.06648) Dense X Retrieval: What Retrieval Granularity Should We Use?
+- [Jiang et al. (2024)](https://arxiv.org/pdf/2406.15319v1) LongRAG: Enhancing Retrieval-Augmented Generation
+with Long-context LLMs
