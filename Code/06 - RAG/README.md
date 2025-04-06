@@ -29,6 +29,16 @@ Here are the details of all the Advanced RAG techniques covered in this reposito
 | Rewrite Retrieve Read (RRR) | Improves query, retrieves better data, and generates accurate answers. |
 | Unstructured RAG | This method designed to handle documents that combine text, tables, and images. |
 
+## RAG
+- Agentic RAG: Use an agent to figure out how to retrieve the most relevant information before using the retrieved information to answer the user's question.
+- Adaptive RAG: Adaptive RAG is a strategy for RAG that unites (1) query analysis with (2) active / self-corrective RAG. Implementation of: https://arxiv.org/abs/2403.14403
+  - For a version that uses a local LLM: Adaptive RAG using local LLMs
+- Corrective RAG: Uses an LLM to grade the quality of the retrieved information from the given source, and if the quality is low, it will try to retrieve the information from another source. Implementation of: https://arxiv.org/pdf/2401.15884.pdf
+  - For a version that uses a local LLM: Corrective RAG using local LLMs
+- Self-RAG: Self-RAG is a strategy for RAG that incorporates self-reflection / self-grading on retrieved documents and generations. Implementation of https://arxiv.org/abs/2310.11511.
+  - For a version that uses a local LLM: Self-RAG using local LLMs
+- SQL Agent: Build a SQL agent that can answer questions about a SQL database.
+
 ## Evaluation
 
 Why BLEU and ROUGE Fall Short for RAG
@@ -103,5 +113,4 @@ for metric_name, score in results.items():
 - Agentic Chunking
 - [Qu et al. (2024)](https://arxiv.org/abs/2410.13070) Is Semantic Chunking Worth the Computational Cost? 
 - [Chen et al. (2024)](https://arxiv.org/pdf/2312.06648) Dense X Retrieval: What Retrieval Granularity Should We Use?
-- [Jiang et al. (2024)](https://arxiv.org/pdf/2406.15319v1) LongRAG: Enhancing Retrieval-Augmented Generation
-with Long-context LLMs
+- [Jiang et al. (2024)](https://arxiv.org/pdf/2406.15319v1) LongRAG: Enhancing Retrieval-Augmented Generation with Long-context LLMs

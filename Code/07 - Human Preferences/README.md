@@ -18,3 +18,7 @@ This timeline highlights some key milestones, but it's crucial to remember that 
 For more specific information, I recommend searching for resources based on specific keywords or research areas within RLHF. Consider exploring databases like arXiv or Google Scholar with relevant queries like "reinforcement learning from human feedback," "human preferences in RL," or "policy learning with human guidance."
 
 I hope this helps! Feel free to ask if you have any further questions about specific RLHF research or want to delve deeper into particular areas.
+
+
+# Reference Resource & code
+- https://vijayasriiyer.medium.com/rlhf-training-pipeline-for-llms-using-huggingface-821b76fc45c4

@@ -12,6 +12,8 @@ This repository contains resources and insights from a lecture on Automatic Spee
   - [Speech-Related Tasks](#speech-related-tasks)
   - [Evaluation Metrics](#evaluation-metrics)
   - [State-of-the-Art Models](#state-of-the-art-models)
+  - [Good to Read](#good-to-read)
+  - [Reference Resource \& Code](#reference-resource--code)
 
 ## Overview
 This section covers the essentials of ASR and TTS, key components in speech processing, and their role in natural language understanding. It introduces various models and evaluation metrics used in speech tasks like transcription, synthesis, and translation.
@@ -40,3 +42,11 @@ This section covers the essentials of ASR and TTS, key components in speech proc
 ## State-of-the-Art Models
 - **Whisper**: A robust ASR model by OpenAI.
 - **Tacotron**: A deep-learning TTS model for natural speech synthesis.
+
+
+## Good to Read
+- [Latif et al. (2023)](https://arxiv.org/pdf/2308.12792)Sparks of Large Audio Models: A Survey and Outlook
+
+
+## Reference Resource & Code
+- https://github.com/MajoRoth/ASR
