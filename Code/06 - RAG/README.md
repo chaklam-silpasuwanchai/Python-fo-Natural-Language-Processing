@@ -114,4 +114,6 @@ for metric_name, score in results.items():
 - [Qu et al. (2024)](https://arxiv.org/abs/2410.13070) Is Semantic Chunking Worth the Computational Cost? 
 - [Chen et al. (2024)](https://arxiv.org/pdf/2312.06648) Dense X Retrieval: What Retrieval Granularity Should We Use?
 - [Jiang et al. (2024)](https://arxiv.org/pdf/2406.15319v1) LongRAG: Enhancing Retrieval-Augmented Generation with Long-context LLMs
+- [Least-to-Most](https://arxiv.org/abs/2205.10625)
+- [IR-COT](https://arxiv.org/pdf/2212.10509)
 - [Langchain-RAG](https://github.com/langchain-ai/rag-from-scratch?tab=readme-ov-file)
